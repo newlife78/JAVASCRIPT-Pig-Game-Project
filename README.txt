@@ -1,5 +1,14 @@
 PIG GAME Project:
 
+Rules and Notes:
+   1. Click '🎲 Roll dice'. A dice with a random number will be displayed and 'Current' counter will start sum the dice values.
+   2. You can '📥 Hold' the 'Current' count and add this sum to the main counter.
+   3. Each time the dice displays '1', you lose all the points in the 'Current' counter and it changes player.
+   4. The fisrt player to reach 100 points in the main counter will win the game.
+   5. When a player wins the game, some visual effects will be displayed and the btn '🎲 Roll dice' and '📥 Hold' will stop working.
+   6. To play again click the '🔄 New game'. Enjoy it!
+   
+
 ____________________________________________________________________________________________________________________________
 
 Start:
